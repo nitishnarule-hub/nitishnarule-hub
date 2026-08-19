@@ -1,59 +1,112 @@
 # Hi 👋, I'm Nitish Narule
 
-### BCA Graduate | Full Stack Web Developer
-
-Passionate about building responsive and user-friendly web applications using modern web technologies. Recently completed Bachelor of Computer Applications (BCA) and continuously improving development skills through practical projects and continuous learning.
-
----
-
-## 🚀 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Full+Stack+Web+Developer;BCA+Graduate;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitishnarule-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 💻 Projects
+## 👨‍💻 About Me
+
+I'm a **BCA Graduate**, **Cybersecurity Enthusiast**, and **Full Stack Web Developer** passionate about technology, problem-solving, and continuous learning.
+
+Currently, I am focusing on developing my knowledge in **Cybersecurity and Information Security**, while continuing to build my skills in **Full Stack Web Development**.
+
+I enjoy building practical projects, exploring new technologies, and improving my technical skills through hands-on learning.
+
+---
+
+## 🛡️ Cybersecurity
+
+- Cybersecurity Fundamentals
+- Information Security
+- Network Security
+- System Security
+- Security Concepts & Best Practices
+
+---
+
+## 💻 Full Stack Development
+
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- Python
+- Django
+- Flask
+- MySQL
+- REST APIs
+
+---
+
+## 🚀 Projects
 
 ✔ Expense Tracker Web Application  
 ✔ AI Chatbot  
-✔ Medicine Availability Finder  
+✔ Medicine Availability Finder
 
 ---
 
 ## 📚 Currently Learning
 
-- Full Stack Web Development
+- Cybersecurity
+- Information Security
+- Network Security
+- Full Stack Development
 - REST API Integration
-- Advanced React Concepts
-- Backend Development
-- Generative and Agentic AI
+- Modern Web Technologies
+
+---
+
+## 🎯 Goals
+
+- Build strong fundamentals in Cybersecurity
+- Gain practical cybersecurity experience
+- Develop secure and scalable web applications
+- Explore new technologies
+- Grow as a Cybersecurity & Full Stack Professional
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishnarule-hub&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishnarule-hub&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nitishnarule-hub&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/nitishnarule-hub
-- LinkedIn: https://www.linkedin.com/in/nitish-narule-86866327a/
+<p align="center">
+  <a href="https://github.com/nitishnarule-hub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nitish-narule-86866327a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ Dedicated to learning, building, and growing as a Software Developer.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
+</p>
+
+<p align="center">
+  ⭐ <b>Learning • Building • Securing • Growing</b> ⭐
+</p>
