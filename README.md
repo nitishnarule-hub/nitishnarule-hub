@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Full+Stack+Web+Developer;BCA+Graduate;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitishnarule-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
@@ -71,24 +68,6 @@ I enjoy building practical projects, exploring new technologies, and improving m
 - Explore new technologies
 - Grow as a Cybersecurity & Full Stack Professional
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishnarule-hub&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishnarule-hub&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nitishnarule-hub&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
